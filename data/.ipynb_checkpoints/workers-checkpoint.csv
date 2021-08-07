@@ -1,0 +1,4 @@
+name,age,sex,m_speed,w_speed,arrive,leave,position
+Taro,30,M,1.2,2.0,8:00,17:00,1
+Hanako,40,F,1.0,1.0,8:30,16:30,1
+Ichiro,20,F,1.0,0.8,8:00,12:00,8
