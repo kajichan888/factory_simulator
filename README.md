@@ -13,4 +13,9 @@ factort simulator
 
 simulator.pyからプログラムを実行することができます。
 
+demonatration3.ipynbにはデモンストレーション用データが入力済みですので
+jupyter labにて実行してみてください。
+
+仮想環境は env.ymlを読み込んでください。
+
 仮想環境の設定はenv.ymlに保存してあります。
